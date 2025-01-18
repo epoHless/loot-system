@@ -1,0 +1,11 @@
+{
+  "name": "com.epohless.loot-system",
+  "version": "1.0.0",
+  "displayName": "Loot System",
+  "description": "A robust loot system for Unity.",
+  "unity": "6000.0.30f1",
+  "author": {
+    "name": "epoHless",
+    "url": "https://github.com/epoHless"
+  }
+}
